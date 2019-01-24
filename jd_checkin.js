@@ -63,7 +63,6 @@ const logger = winston.createLogger({
         await page.goto(url);
 
         try {
-            await page.waitFor('.ui-dialog-close')
             await page.click('.ui-dialog-close')
         }catch (e) {
             logger.info("没有乐享红包弹窗")
@@ -84,18 +83,17 @@ const logger = winston.createLogger({
             logger.info("进行签到...")
             await page.click('.icon-sign')
             await page.waitFor(3000)
-            const sing_page = await switchPageByTitle(browser,"签到页");
-            if (null != sing_page){
-                const sing_message = await sing_page.$eval('div.day-info.second-day.active > div.active-info > div.title', element => element.innerText);
-                logger.info(sing_message)
-                await sing_page.screenshot({path: "screenshots/jd_sign_page_"+getFormatedTime()+".png"});
-            }else {
-                logger.error("未找到签到页")
-            }
+            // const sing_page = await switchPageByTitle(browser,"签到页");
+            // if (null != sing_page){
+            //     const sing_message = await sing_page.$eval('div.day-info.second-day.active > div.active-info > div.title', element => element.innerText);
+            //     logger.info(sing_message)
+            //     await sing_page.screenshot({path: "screenshots/jd_sign_page_"+getFormatedTime()+".png"});
+            // }else {
+            //     logger.error("未找到签到页")
+            // }
 
             await page.reload()
             logger.info("当前签到状态："+await page.$eval('.sign-in > .name', element => element.innerText))
-            // await page.waitFor(2000)
         }else {
             logger.info("当前签到状态："+sign_in_status)
         }
