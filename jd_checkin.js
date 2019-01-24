@@ -61,6 +61,14 @@ const logger = winston.createLogger({
 
         await page.setCookie(...cookies);
         await page.goto(url);
+
+        try {
+            await page.waitFor('.ui-dialog-close')
+            await page.click('.ui-dialog-close')
+        }catch (e) {
+            logger.info("没有乐享红包弹窗")
+        }
+
         try {
             await page.waitFor('.sign-in')
         }catch (e) {
@@ -72,7 +80,7 @@ const logger = winston.createLogger({
 
         const sign_in_status = await page.$eval('.sign-in > .name', element => element.innerText)
         //console.log(sign_in_status)
-        if(sign_in_status != "已签到" ){
+        if(sign_in_status == "已签到" ){
             logger.info("进行签到...")
             await page.click('.icon-sign')
             await page.waitFor(3000)
