@@ -72,7 +72,7 @@ const logger = winston.createLogger({
 
         const sign_in_status = await page.$eval('.sign-in > .name', element => element.innerText)
         //console.log(sign_in_status)
-        if(sign_in_status == "已签到" ){
+        if(sign_in_status != "已签到" ){
             logger.info("进行签到...")
             await page.click('.icon-sign')
             await page.waitFor(3000)
