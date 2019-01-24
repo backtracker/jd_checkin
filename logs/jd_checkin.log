@@ -2,3 +2,273 @@
 {"time":"2019-01-24 09:44:05","message":"进行签到...","level":"info"}
 {"time":"2019-01-24 09:44:08","message":"今日已签到 请明日再来","level":"info"}
 {"time":"2019-01-24 09:44:14","message":"当前签到状态：已签到","level":"info"}
+{"time":"2019-01-24 10:33:37","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 10:34:11","message":"没有乐享红包弹窗","level":"info"}
+{"time":"2019-01-24 10:34:11","message":"当前签到状态：已签到","level":"info"}
+{"time":"2019-01-24 11:07:19","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 11:07:23","message":"没有乐享红包弹窗","level":"info"}
+{"time":"2019-01-24 11:07:23","message":"进行签到...","level":"info"}
+{"time":"2019-01-24 11:07:27","message":"当前签到状态：已签到","level":"info"}
+{"time":"2019-01-24 13:10:28","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:11:03","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:11:06","message":"没有乐享红包弹窗","level":"info"}
+{"time":"2019-01-24 13:11:06","message":"进行签到...","level":"info"}
+{"time":"2019-01-24 13:11:17","message":"当前签到状态：已签到","level":"info"}
+{"time":"2019-01-24 13:14:11","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:14:11","message":"method 2...............","level":"info"}
+{"time":"2019-01-24 13:14:11","message":"Protocol error (Target.attachToTarget): Target closed.","level":"error"}
+{"time":"2019-01-24 13:14:57","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:14:57","message":"launch browser 失败：Error: Failed to launch chrome! spawn /usr/bin/chromium ENOENT\n\n\nTROUBLESHOOTING: https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md\n","level":"error"}
+{"time":"2019-01-24 13:16:07","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:16:08","message":"method 2...............","level":"info"}
+{"time":"2019-01-24 13:16:08","message":"Protocol error (Target.attachToTarget): Target closed.","level":"error"}
+{"time":"2019-01-24 13:17:02","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:17:02","message":"开始京东每日签到...","level":"info"}
+{"time":"2019-01-24 13:17:02","message":"method 2...............","level":"info"}
+{"time":"2019-01-24 13:17:02","message":"Protocol error (Target.attachToTarget): Target closed.","level":"error"}
+{"time":"2019-01-24 13:17:32","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:17:32","message":"开始京东每日签到...","level":"info"}
+{"time":"2019-01-24 13:17:36","message":"没有乐享红包弹窗","level":"info"}
+{"time":"2019-01-24 13:17:36","message":"进行签到...","level":"info"}
+{"time":"2019-01-24 13:17:46","message":"当前签到状态：已签到","level":"info"}
+{"time":"2019-01-24 13:17:47","message":"method 2...............","level":"info"}
+{"time":"2019-01-24 13:18:53","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:18:53","message":"开始京东每日签到...","level":"info"}
+{"time":"2019-01-24 13:18:57","message":"没有乐享红包弹窗","level":"info"}
+{"time":"2019-01-24 13:19:27","message":"未找到签到按钮，检查cookie是否过期！","level":"error"}
+{"time":"2019-01-24 13:19:28","message":"222222222","level":"info"}
+{"time":"2019-01-24 13:29:07","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:29:08","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:29:10","level":"info"}
+{"time":"2019-01-24 13:29:29","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:29:30","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:29:41","message":9,"level":"info"}
+{"time":"2019-01-24 13:34:40","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:34:40","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:34:43","message":9,"level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:34:43","message":"[object Promise] [object Promise] [object Promise]","level":"info"}
+{"time":"2019-01-24 13:35:01","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:35:01","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:35:05","message":9,"level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 10京豆 驰加旗舰店 http://tyreplus.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 1京豆 紫艺陶缘专营店 http://msncj.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 3京豆 苏诺京东自营旗舰店 http://mall.jd.com/index-1000108110.html","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 1京豆 尊壶官方旗舰店 http://zunhu.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 1京豆 世纪鸿鹏茶具专营店 http://sjhpchaju.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 10京豆 徐福记京东自营旗舰店 http://xufujiec.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 10京豆 尼康京东自营官方旗舰店 http://nikon.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 1京豆 北大史茶具官方旗舰店 http://beidashi.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:05","message":"店内签到最多可领 5京豆 丝蕴京东自营旗舰店 http://mall.jd.com/index-1000005289.html","level":"info"}
+{"time":"2019-01-24 13:35:55","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:35:55","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:35:58","message":9,"level":"info"}
+{"time":"2019-01-24 13:35:58","message":"驰加旗舰店 店内签到最多可领 10京豆 http://tyreplus.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"紫艺陶缘专营店 店内签到最多可领 1京豆 http://msncj.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"苏诺京东自营旗舰店 店内签到最多可领 3京豆 http://mall.jd.com/index-1000108110.html","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"尊壶官方旗舰店 店内签到最多可领 1京豆 http://zunhu.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"世纪鸿鹏茶具专营店 店内签到最多可领 1京豆 http://sjhpchaju.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"徐福记京东自营旗舰店 店内签到最多可领 10京豆 http://xufujiec.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"尼康京东自营官方旗舰店 店内签到最多可领 10京豆 http://nikon.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"北大史茶具官方旗舰店 店内签到最多可领 1京豆 http://beidashi.jd.com/","level":"info"}
+{"time":"2019-01-24 13:35:58","message":"丝蕴京东自营旗舰店 店内签到最多可领 5京豆 http://mall.jd.com/index-1000005289.html","level":"info"}
+{"time":"2019-01-24 13:37:34","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:37:34","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:37:36","message":9,"level":"info"}
+{"time":"2019-01-24 13:37:36","message":"开始签到商铺 驰加旗舰店 店内签到最多可领 10京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:36","message":"开始签到商铺 紫艺陶缘专营店 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:36","message":"开始签到商铺 苏诺京东自营旗舰店 店内签到最多可领 3京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:37","message":"开始签到商铺 尊壶官方旗舰店 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:37","message":"开始签到商铺 世纪鸿鹏茶具专营店 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:37","message":"开始签到商铺 徐福记京东自营旗舰店 店内签到最多可领 10京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:37","message":"开始签到商铺 尼康京东自营官方旗舰店 店内签到最多可领 10京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:37","message":"开始签到商铺 北大史茶具官方旗舰店 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:37","message":"开始签到商铺 丝蕴京东自营旗舰店 店内签到最多可领 5京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:52","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:37:53","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:37:55","message":9,"level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 驰加旗舰店, 店内签到最多可领 10京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 紫艺陶缘专营店, 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 苏诺京东自营旗舰店, 店内签到最多可领 3京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 尊壶官方旗舰店, 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 世纪鸿鹏茶具专营店, 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 徐福记京东自营旗舰店, 店内签到最多可领 10京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 尼康京东自营官方旗舰店, 店内签到最多可领 10京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 北大史茶具官方旗舰店, 店内签到最多可领 1京豆 ...","level":"info"}
+{"time":"2019-01-24 13:37:56","message":"开始签到商铺 丝蕴京东自营旗舰店, 店内签到最多可领 5京豆 ...","level":"info"}
+{"time":"2019-01-24 13:38:10","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:38:11","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:38:14","message":9,"level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 尊壶官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 世纪鸿鹏茶具专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 徐福记京东自营旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 尼康京东自营官方旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 北大史茶具官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:38:14","message":"开始签到商铺 丝蕴京东自营旗舰店, 店内签到最多可领 5京豆","level":"info"}
+{"time":"2019-01-24 13:49:21","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:49:21","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:49:24","message":9,"level":"info"}
+{"time":"2019-01-24 13:49:24","message":"开始签到商铺 驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:49:44","message":"Error: failed to find element matching selector \".jSign > a\"","level":"error"}
+{"time":"2019-01-24 13:50:22","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:50:22","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:50:25","message":9,"level":"info"}
+{"time":"2019-01-24 13:50:25","message":"开始签到商铺 驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:50:37","message":"Error: failed to find element matching selector \" .jSign > a \"","level":"error"}
+{"time":"2019-01-24 13:52:14","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:52:14","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:52:17","message":9,"level":"info"}
+{"time":"2019-01-24 13:52:17","message":"开始签到商铺 驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:52:30","message":"开始签到商铺 紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:52:35","message":"开始签到商铺 苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 13:52:38","message":"开始签到商铺 尊壶官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:52:49","message":"开始签到商铺 世纪鸿鹏茶具专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:52:55","message":"开始签到商铺 徐福记京东自营旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:53:07","message":"开始签到商铺 尼康京东自营官方旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 13:53:10","message":"开始签到商铺 北大史茶具官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 13:53:16","message":"开始签到商铺 卡西欧京东自营专区, 店内签到最多可领 5京豆","level":"info"}
+{"time":"2019-01-24 13:59:01","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 13:59:02","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 13:59:04","message":9,"level":"info"}
+{"time":"2019-01-24 13:59:04","message":"开始签到商铺 紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:04:05","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:04:05","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:04:08","message":9,"level":"info"}
+{"time":"2019-01-24 14:04:08","message":"开始签到商铺 紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:04:29","message":"Execution context was destroyed, most likely because of a navigation.","level":"error"}
+{"time":"2019-01-24 14:07:09","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:07:09","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:07:12","message":9,"level":"info"}
+{"time":"2019-01-24 14:07:12","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:07:17","message":"签到","level":"info"}
+{"time":"2019-01-24 14:07:17","message":"开始签到 紫艺陶缘专营店","level":"info"}
+{"time":"2019-01-24 14:07:17","message":"Execution context was destroyed, most likely because of a navigation.","level":"error"}
+{"time":"2019-01-24 14:09:39","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:09:39","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:09:42","message":9,"level":"info"}
+{"time":"2019-01-24 14:09:42","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:09:44","message":"签到","level":"info"}
+{"time":"2019-01-24 14:09:44","message":"开始签到 紫艺陶缘专营店","level":"info"}
+{"time":"2019-01-24 14:09:44","message":"签到状态：签到","level":"info"}
+{"time":"2019-01-24 14:10:35","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:10:35","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:10:38","message":9,"level":"info"}
+{"time":"2019-01-24 14:10:38","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:10:49","message":"签到","level":"info"}
+{"time":"2019-01-24 14:10:49","message":"开始签到 紫艺陶缘专营店","level":"info"}
+{"time":"2019-01-24 14:10:49","message":"签到状态：签到","level":"info"}
+{"time":"2019-01-24 14:11:18","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:11:18","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:11:21","message":9,"level":"info"}
+{"time":"2019-01-24 14:11:21","message":"苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 14:11:32","message":"签到","level":"info"}
+{"time":"2019-01-24 14:11:32","message":"开始签到 苏诺京东自营旗舰店","level":"info"}
+{"time":"2019-01-24 14:11:33","message":"签到状态：签到","level":"info"}
+{"time":"2019-01-24 14:12:47","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:12:48","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:12:50","message":9,"level":"info"}
+{"time":"2019-01-24 14:12:50","message":"苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 14:12:55","message":"签到","level":"info"}
+{"time":"2019-01-24 14:12:55","message":"开始签到 苏诺京东自营旗舰店","level":"info"}
+{"time":"2019-01-24 14:13:07","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:13:24","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:13:24","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:13:27","message":9,"level":"info"}
+{"time":"2019-01-24 14:13:27","message":"尊壶官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:13:39","message":"签到","level":"info"}
+{"time":"2019-01-24 14:13:39","message":"开始签到 尊壶官方旗舰店","level":"info"}
+{"time":"2019-01-24 14:13:43","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:15:32","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:15:32","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:15:35","message":9,"level":"info"}
+{"time":"2019-01-24 14:15:35","message":"驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:15:47","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:15:47","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:15:50","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:15:50","message":"苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 14:15:55","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:15:55","message":"尊壶官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:15:59","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:15:59","message":"世纪鸿鹏茶具专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:16:05","message":"开始签到 世纪鸿鹏茶具专营店","level":"info"}
+{"time":"2019-01-24 14:16:09","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:16:09","message":"徐福记京东自营旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:16:21","message":"开始签到 徐福记京东自营旗舰店","level":"info"}
+{"time":"2019-01-24 14:16:24","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:16:24","message":"尼康京东自营官方旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:16:29","message":"开始签到 尼康京东自营官方旗舰店","level":"info"}
+{"time":"2019-01-24 14:16:32","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:16:32","message":"北大史茶具官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:16:37","message":"开始签到 北大史茶具官方旗舰店","level":"info"}
+{"time":"2019-01-24 14:16:40","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:16:40","message":"卓迈达车品专营店, 店内签到最多可领 2京豆","level":"info"}
+{"time":"2019-01-24 14:16:45","message":"开始签到 卓迈达车品专营店","level":"info"}
+{"time":"2019-01-24 14:16:48","message":"签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:18:38","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:18:38","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:18:41","message":9,"level":"info"}
+{"time":"2019-01-24 14:18:41","message":"驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:18:45","message":"驰加旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:18:45","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:18:47","message":"紫艺陶缘专营店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:18:47","message":"苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 14:18:58","message":"苏诺京东自营旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:18:58","message":"尊壶官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:19:01","message":"尊壶官方旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:19:02","message":"世纪鸿鹏茶具专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:19:08","message":"世纪鸿鹏茶具专营店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:19:08","message":"徐福记京东自营旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:19:19","message":"徐福记京东自营旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:19:19","message":"尼康京东自营官方旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:19:23","message":"尼康京东自营官方旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:19:23","message":"北大史茶具官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:19:27","message":"北大史茶具官方旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:19:27","message":"卡西欧京东自营专区, 店内签到最多可领 5京豆","level":"info"}
+{"time":"2019-01-24 14:19:34","message":"开始签到 卡西欧京东自营专区","level":"info"}
+{"time":"2019-01-24 14:19:38","message":"卡西欧京东自营专区 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:34:35","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:34:35","message":"开始京东每日签到...","level":"info"}
+{"time":"2019-01-24 14:34:38","message":"当前每日签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:34:39","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:34:45","message":"2019-01-24_14-34-45当前我的金豆：0","level":"info"}
+{"time":"2019-01-24 14:34:45","message":"2019-01-24_14-34-45当前我的金豆：0","level":"info"}
+{"time":"2019-01-24 14:36:04","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:36:04","message":"开始京东每日签到...","level":"info"}
+{"time":"2019-01-24 14:36:08","message":"当前每日签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:08","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:36:14","message":"2019-01-24_14-36-14当前我的金豆：448","level":"info"}
+{"time":"2019-01-24 14:36:14","message":"驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:36:26","message":"驰加旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:26","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:36:28","message":"紫艺陶缘专营店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:28","message":"苏诺京东自营旗舰店, 店内签到最多可领 3京豆","level":"info"}
+{"time":"2019-01-24 14:36:30","message":"苏诺京东自营旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:30","message":"尊壶官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:36:34","message":"尊壶官方旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:34","message":"世纪鸿鹏茶具专营店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:36:44","message":"世纪鸿鹏茶具专营店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:44","message":"徐福记京东自营旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:36:46","message":"徐福记京东自营旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:46","message":"尼康京东自营官方旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:36:56","message":"尼康京东自营官方旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:57","message":"北大史茶具官方旗舰店, 店内签到最多可领 1京豆","level":"info"}
+{"time":"2019-01-24 14:36:58","message":"北大史茶具官方旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:36:58","message":"卡西欧京东自营专区, 店内签到最多可领 5京豆","level":"info"}
+{"time":"2019-01-24 14:37:05","message":"卡西欧京东自营专区 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:37:05","message":"2019-01-24_14-37-05当前我的金豆：448","level":"info"}
+{"time":"2019-01-24 14:41:19","message":"开始启动京东签到脚本...","level":"info"}
+{"time":"2019-01-24 14:41:19","message":"开始京东店铺签到...","level":"info"}
+{"time":"2019-01-24 14:41:21","message":"2019-01-24_14-41-21 当前我的金豆数目：448","level":"info"}
+{"time":"2019-01-24 14:41:22","message":"驰加旗舰店, 店内签到最多可领 10京豆","level":"info"}
+{"time":"2019-01-24 14:41:25","message":"驰加旗舰店 签到状态：已签到","level":"info"}
+{"time":"2019-01-24 14:41:25","message":"紫艺陶缘专营店, 店内签到最多可领 1京豆","level":"info"}
