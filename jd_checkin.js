@@ -101,6 +101,14 @@ async function shop_checkin(browser){
         await earnBean_page.setViewport(viewPort)
         await earnBean_page.setCookie(...cookies);
         await earnBean_page.goto(earnBean_url);
+        try {
+            await earnBean_page.waitFor('.bi-number')
+        }catch (e) {
+            logger.error("未找到我的京豆元素！检查cookie是否过期！")
+            await earnBean_page.close()
+            return -1
+        }
+
         var bean_number = await earnBean_page.$eval('.bi-number',e => e.innerText)
         logger.info(getFormatedTime()+" 当前我的金豆数目："+bean_number)
 
@@ -144,7 +152,7 @@ async function shop_checkin(browser){
         await earnBean_page.reload()
         bean_number = await earnBean_page.$eval('.bi-number',e => e.innerText)
         logger.info(getFormatedTime()+" 当前我的金豆数目："+bean_number)
-        earnBean_page.close()
+        await earnBean_page.close()
     }catch (e) {
         logger.error(e)
     }
