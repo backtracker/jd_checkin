@@ -6,6 +6,7 @@ const cookies =  JSON.parse(fs.readFileSync('./jd_cookie.txt', 'utf8'))
 const viewPort={width:1920, height:1080};
 
 //根据网页title切换页面
+//暂未使用
 async function switchPageByTitle(browser,page_title) {
     var expected_page = null;
     const allPages =  await browser.pages();
@@ -20,6 +21,8 @@ async function switchPageByTitle(browser,page_title) {
     }
     return expected_page
 }
+
+
 //得到格式化时间戳
 function  getFormatedTime() {
     return new  datetime.create().format("Y-m-d_H-M-S")
@@ -58,6 +61,7 @@ async function daily_checkin(browser){
         await vip_page.goto(vip_url);
 
         try {
+            //关闭弹窗
             await vip_page.click('.ui-dialog-close')
         }catch (e) {}
 
@@ -70,24 +74,16 @@ async function daily_checkin(browser){
             return -1;
         }
 
-        const sign_in_status = await vip_page.$eval('.sign-in > .name', element => element.innerText)
-        if(sign_in_status == "签到" ){
+        const check_in_status = await vip_page.$eval('.sign-in > .name', e => e.innerText)
+        if(check_in_status == "签到" ){
             logger.info("进行签到...")
+            await vip_page.waitFor('.icon-sign')
             await vip_page.click('.icon-sign')
             await vip_page.waitFor(3000)
-            // const sing_page = await switchPageByTitle(browser,"签到页");
-            // if (null != sing_page){
-            //     const sing_message = await sing_page.$eval('div.day-info.second-day.active > div.active-info > div.title', element => element.innerText);
-            //     logger.info(sing_message)
-            //     await sing_page.screenshot({path: "screenshots/jd_sign_page_"+getFormatedTime()+".png"});
-            // }else {
-            //     logger.error("未找到签到页")
-            // }
-
             await vip_page.reload()
-            logger.info("当前每日签到状态："+await vip_page.$eval('.sign-in > .name', element => element.innerText))
+            logger.info("当前每日签到状态："+await vip_page.$eval('.sign-in > .name', e => e.innerText))
         }else {
-            logger.info("当前每日签到状态："+sign_in_status)
+            logger.info("当前每日签到状态："+check_in_status)
         }
         await vip_page.screenshot({path: "screenshots/jd_daily_checkin_"+getFormatedTime()+".png"});
         await vip_page.close()
@@ -124,6 +120,7 @@ async function shop_checkin(browser){
             try {
                 //点击领取并关注
                 await shop_page.click('.J_drawGift.d-btn')
+                await shop_page.click('.J_drawGift.d-btn')
             }catch (e) {
 
             }
@@ -132,6 +129,7 @@ async function shop_checkin(browser){
             //logger.info(checkin_status)
             if(shop_checkin_status == "签到" ){
                 logger.info("开始签到 "+shop_name)
+                await shop_page.waitFor(' .jSign ')
                 await shop_page.click(' .jSign ')
                 await shop_page.waitFor(3000)
                 await shop_page.reload()
